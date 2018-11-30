@@ -22,6 +22,7 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -36,6 +37,10 @@
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenConsole.New.Generate">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
