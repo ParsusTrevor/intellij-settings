@@ -45,10 +45,6 @@
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="f9" />
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
   <action id="RiderUnitTestRunContextAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl r" />
@@ -58,6 +54,7 @@
   <action id="RunDashboard.Run" />
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="XDebugger.AttachToLocalProcess">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
