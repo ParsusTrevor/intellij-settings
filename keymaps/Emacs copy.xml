@@ -56,6 +56,9 @@
     <keyboard-shortcut first-keystroke="f10" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="XDebugger.AttachToLocalProcess">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
