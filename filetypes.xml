@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cake" type="C#" />
+      <removed_mapping ext="asp" approved="true" type="Visual Basic" />
     </extensionMap>
   </component>
 </application>
