@@ -15,5 +15,6 @@
     <mask>*.scss</mask>
     <mask>*.cs</mask>
     <mask>*.cshtml</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
