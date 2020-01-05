@@ -7,7 +7,7 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
-    <mask>*.scss</mask>
+    <mask>*.cshtml</mask>
     <mask>*.scss</mask>
   </component>
 </application>
