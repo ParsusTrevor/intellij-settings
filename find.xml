@@ -5,13 +5,14 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cshtml</mask>
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
