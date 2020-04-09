@@ -5,8 +5,10 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl b" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
@@ -29,6 +31,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -44,6 +47,11 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="RiderUnitTestDebugContextAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="shift ctrl f10" />
   </action>
   <action id="RiderUnitTestRunContextAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="r" />
