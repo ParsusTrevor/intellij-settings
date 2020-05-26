@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="master@localhost" uuid="701d5f1f-bc78-4070-bc8e-1689290d3068">
+    <data-source source="LOCAL" name="Microsoft SQL Server - master@localhost" uuid="701d5f1f-bc78-4070-bc8e-1689290d3068">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
