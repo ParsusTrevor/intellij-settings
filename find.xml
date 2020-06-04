@@ -2,12 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
-    <mask>*.cshtml</mask>
-    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
