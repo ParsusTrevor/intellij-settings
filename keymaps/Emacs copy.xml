@@ -19,6 +19,12 @@
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl j" />
