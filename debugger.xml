@@ -9,7 +9,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="breakOnUnhandledExceptions" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="userUnhandledExceptionsIgnoreList">
             <list>
