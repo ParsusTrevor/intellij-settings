@@ -10,6 +10,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUnhandledExceptions" value="false" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="userUnhandledExceptionsIgnoreList">
             <list>
@@ -17,6 +18,7 @@
               <option value="System.Threading.ThreadAbortException" />
               <option value="Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException" />
               <option value="Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException" />
+              <option value="System.Threading.Tasks.TaskCanceledException" />
             </list>
           </option>
         </configuration>

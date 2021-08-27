@@ -2,7 +2,7 @@
   <tool name="Emacs" description="Emacs editor" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/bin/emacsclient" />
-      <option name="PARAMETERS" value="-n $FilePath$" />
+      <option name="PARAMETERS" value="-n +$LineNumber$:$ColumnNumber$ $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
