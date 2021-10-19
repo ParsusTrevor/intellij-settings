@@ -11,6 +11,7 @@
         <configuration>
           <option name="breakOnUnhandledExceptions" value="false" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="editAndContinueEnabled" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="userUnhandledExceptionsIgnoreList">
             <list>
